@@ -3,7 +3,7 @@
 *.tfstate.backup
 .terraform/
 .terraform.lock.hcl
-terraform.tfvars       # Don't commit passwords to Git!
+terraform.tfvars      
 *.auto.tfvars
 crash.log
 override.tf
